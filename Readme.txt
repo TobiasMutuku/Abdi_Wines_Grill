@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Restaurantly
-Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Abdi Wines & Grill is a restaurant website  for marketing our products and services
+Designed by: Optomux Technologies
